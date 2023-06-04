@@ -18,13 +18,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0LA1R3&show_icons=true&theme=dark)
 ##
 
-<h3>Redes Sociais</h3>
+<h3>Social Media</h3>
 <div>
 <a href="https://www.instagram.com/guilherme.vinicius.official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ##
-<h3>Contato</h3>
+<h3>Contact</h3>
 <div>
 <a href="mailto:guilhermeviniciuspj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
