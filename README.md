@@ -14,7 +14,7 @@
 </div>
 
 ##
-https://github-readme-stats.vercel.app/api?username=S0LA1R3&show_icons=true&theme=dark
+<a><img src="https://github-readme-stats.vercel.app/api?username=S0LA1R3&show_icons=true&theme=dark"></a>
 
 ##
 <a><img src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=S0LA1R3&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"></a>
