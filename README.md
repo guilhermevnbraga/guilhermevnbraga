@@ -7,7 +7,7 @@
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,py,arduino,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,py,cpp,arduino" />
   </a>
 </p>
 </div>
