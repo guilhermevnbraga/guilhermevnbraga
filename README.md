@@ -1,4 +1,4 @@
-><h1>Guilherme Vinícius Nigro Braga</h1>
+s><h1>Guilherme Vinícius Nigro Braga</h1>
 
 ><h2>I'm here to share the codes of my learning journey</h2>
 
@@ -7,7 +7,7 @@
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,java,js,react,py" />
+    <img src="https://skillicons.dev/icons?i=py,java,react,js,html,casa,cpp,arduino" />
   </a>
 </p>
 </div>
