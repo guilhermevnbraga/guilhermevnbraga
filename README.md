@@ -1,18 +1,10 @@
-<style>
-        #devicons{
-            position: relative;
-            left: 1rem;
-        }
-
-    </style>
-
 ><h1>Guilherme Vinícius Nigro Braga</h1>
 
 ><h2>I'm here to share the codes of my learning journey</h2>
 
 ><h3>Languages and tools I'm learning:</h3>
 
-<div id="devicons">
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,cpp,py,java" /><br/>
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
