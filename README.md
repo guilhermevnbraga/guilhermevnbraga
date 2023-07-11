@@ -17,9 +17,6 @@
 ##
 <a><img src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=S0LA1R3&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"></a>
 
-##
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64acb0c514678473bb608ab8?variant=dark)](https://roadmap.sh)
-
 #
 <h3>Social Media</h3>
 <div>
