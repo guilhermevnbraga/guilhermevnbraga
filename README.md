@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,py,java,dart" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,dart" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter" />
   </a>
 </div>
 
