@@ -1,6 +1,6 @@
 ><h1>Guilherme Vinícius Nigro Braga</h1>
 
-><h2>I'm here to share the codes of my learning journey</h2>
+><h2>I'm here to share my learning journey codes</h2>
 
 ><h3>Languages and tools I'm learning:</h3>
 
