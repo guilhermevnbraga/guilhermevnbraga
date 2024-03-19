@@ -7,7 +7,8 @@
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,arduino,raspberrypi" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,gulp,jquery,ts,webpack,wordpress,nodejs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery" />
+    <img src="https://skillicons.dev/icons?i=gulp,ts,webpack,wordpress,bootstrap"/>
   </a>
 </div>
 
