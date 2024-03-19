@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,arduino,raspberrypi" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,raspberrypi,arduino" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery" /><br>
     <img src="https://skillicons.dev/icons?i=gulp,webpack,bootstrap,ts,react,wordpress"/>
   </a>
