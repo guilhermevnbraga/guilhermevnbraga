@@ -1,9 +1,9 @@
-><h1>Guilherme Vinícius Nigro Braga</h1>
-><h2>Software Developer</h2>
+<h1>Guilherme Vinícius Nigro Braga</h1>
+<h2>Software Developer</h2>
 
-><h3>Tecnologies:</h3>
+<h3>Tecnologies:</h3>
 
-><h4>Web Development</h4>
+<h4>Web Development</h4>
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git" /><br>
