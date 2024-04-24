@@ -6,22 +6,26 @@
 ><h4>Web Development</h4>
 >
 ><a href="https://skillicons.dev">
- >   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git" /><br>
- >   <img src="https://skillicons.dev/icons?i=ts,bootstrap,tailwind,react,nextjs"/><br>
- >   <img src="https://skillicons.dev/icons?i=wordpress,sass,webpack,gulp,jquery"/><br>
+ ><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git" /><br>
+ ><img src="https://skillicons.dev/icons?i=ts,bootstrap,tailwind,react,nextjs"/><br>
+ ><img src="https://skillicons.dev/icons?i=wordpress,sass,webpack,gulp,jquery"/><br>
  ></a>
 
  ><h4>Embbed Device Development</h4>
 >
 ><a href="https://skillicons.dev">
- >   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,java,raspberrypi" /><br>
+ ><img src="https://skillicons.dev/icons?i=arduino,c,cpp,java,raspberrypi" /><br>
 ></a>
 
 > <h4>Machine Learn and Computer Vision</h4>
 ><a href="https://skillicons.dev">
- >   <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow" />
- ></a>
+ ><img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow" />
+></a>
 
+><h4>Mobile Development</h4>
+><a href="https://skillicons.dev">
+ ><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" />
+></a>
 
 ##
 <a><img src="https://github-readme-stats-s0la1r3.vercel.app/api?username=guilhermevnbraga&show_icons=true&bg_color=121218&title_color=0CA&text_color=0B9"/></a>
