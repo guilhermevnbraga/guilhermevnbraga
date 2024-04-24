@@ -1,5 +1,5 @@
 <h1>Guilherme Vinícius Nigro Braga</h1>
-<strong><h2>Software Developer</h2></strong>
+<h2>**Software Developer**</h2>
 
 <h3>Tecnologies:</h3>
 
