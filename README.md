@@ -1,8 +1,8 @@
 ><h1>Guilherme Vinícius Nigro Braga</h1>
 
-><h2>I'm here to share my learning journey codes</h2>
+><h2>Web Developer</h2>
 
-><h3>Languages and tools I'm learning:</h3>
+><h3>Tecnologies:</h3>
 
 ><h4>Web Development</h4>
 
