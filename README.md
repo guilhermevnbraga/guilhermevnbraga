@@ -7,8 +7,8 @@
 ><h4>Web Development</h4>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,react,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,bootstrap,sass,webpack,gulp"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,react,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,bootstrap,sass,webpack,gulp,jquery"/><br>
     <img src="https://skillicons.dev/icons?i=arduino,c,cpp,java" /><br>
     <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,raspberrypi" />
   </a>
