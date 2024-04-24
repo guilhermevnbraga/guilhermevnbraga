@@ -10,9 +10,9 @@
  >   <img src="https://skillicons.dev/icons?i=ts,bootstrap,tailwind,react,nextjs"/><br>
  >   <img src="https://skillicons.dev/icons?i=wordpress,sass,webpack,gulp,jquery"/><br>
  ></a>
-
+>
  ><h4>Embbed Development</h4>
-
+>
 ><a href="https://skillicons.dev">
  >   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,java" /><br>
  >   <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,raspberrypi" />
