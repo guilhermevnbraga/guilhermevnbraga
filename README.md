@@ -11,16 +11,19 @@
  ><img src="https://skillicons.dev/icons?i=wordpress,sass,webpack,gulp,jquery"/><br>
  ></a>
 
+
  ><h4>Embbed Device Development</h4>
 >
 ><a href="https://skillicons.dev">
  ><img src="https://skillicons.dev/icons?i=arduino,c,cpp,java,raspberrypi" /><br>
 ></a>
 
+
 > <h4>Machine Learn and Computer Vision</h4>
 ><a href="https://skillicons.dev">
  ><img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow" />
 ></a>
+
 
 ><h4>Mobile Development</h4>
 ><a href="https://skillicons.dev">
