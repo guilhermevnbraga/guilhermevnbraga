@@ -15,8 +15,13 @@
 >
 ><a href="https://skillicons.dev">
  >   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,java" /><br>
- >   <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,raspberrypi" />
 ></a>
+
+> <h4>Machine Learn and Computer Vision</h4>
+><a href="https://skillicons.dev">
+ >   <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,raspberrypi" />
+ ></a>
+
 
 ##
 <a><img src="https://github-readme-stats-s0la1r3.vercel.app/api?username=guilhermevnbraga&show_icons=true&bg_color=121218&title_color=0CA&text_color=0B9"/></a>
