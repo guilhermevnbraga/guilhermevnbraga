@@ -14,7 +14,7 @@
  ><h4>Embbed Device Development</h4>
 >
 ><a href="https://skillicons.dev">
- >   <img src="https://skillicons.dev/icons?i=c,cpp,java,raspberrypi,arduino" /><br>
+ >   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,java,raspberrypi" /><br>
 ></a>
 
 > <h4>Machine Learn and Computer Vision</h4>
