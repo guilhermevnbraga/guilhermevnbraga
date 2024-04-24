@@ -14,12 +14,12 @@
  ><h4>Embbed Device Development</h4>
 >
 ><a href="https://skillicons.dev">
- >   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,java" /><br>
+ >   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,java" /><br>
 ></a>
 
 > <h4>Machine Learn and Computer Vision</h4>
 ><a href="https://skillicons.dev">
- >   <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,raspberrypi" />
+ >   <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow" />
  ></a>
 
 
