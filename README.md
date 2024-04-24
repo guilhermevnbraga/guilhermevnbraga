@@ -4,14 +4,14 @@
 <h3>Tecnologies:</h3>
 
 <h4>Web Development</h4>
->
+
 ><a href="https://skillicons.dev">
  >   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git" /><br>
  >   <img src="https://skillicons.dev/icons?i=ts,bootstrap,tailwind,react,nextjs"/><br>
  >   <img src="https://skillicons.dev/icons?i=wordpress,sass,webpack,gulp,jquery"/><br>
  >   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,java" /><br>
  >   <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,raspberrypi" />
-  ></a>
+ ></a>
 
 ##
 <a><img src="https://github-readme-stats-s0la1r3.vercel.app/api?username=guilhermevnbraga&show_icons=true&bg_color=121218&title_color=0CA&text_color=0B9"/></a>
