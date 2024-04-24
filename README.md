@@ -4,14 +4,14 @@
 
 ><h3>Languages and tools I'm learning:</h3>
 
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,gulp" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,bootstrap,sass,webpack,react,nextjs"/><br>
+><h4>Web Development</h4>
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,react,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,bootstrap,sass,webpack,gulp"/><br>
     <img src="https://skillicons.dev/icons?i=arduino,c,cpp,java" /><br>
     <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,raspberrypi" />
   </a>
-</div>
 
 ##
 <a><img src="https://github-readme-stats-s0la1r3.vercel.app/api?username=guilhermevnbraga&show_icons=true&bg_color=121218&title_color=0CA&text_color=0B9"/></a>
