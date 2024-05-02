@@ -30,6 +30,11 @@
  ><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" />
 ></a>
 
+><h4>Database</h4>
+><a href="https://skillicons.dev">
+ ><img src="https://skillicons.dev/icons?i=sql,mysql,postgree" />
+></a>
+
 ##
 <a><img src="https://github-readme-stats-s0la1r3.vercel.app/api?username=guilhermevnbraga&show_icons=true&bg_color=121218&title_color=0CA&text_color=0B9"/></a>
 
