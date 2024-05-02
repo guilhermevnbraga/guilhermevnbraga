@@ -32,7 +32,7 @@
 
 ><h4>Database</h4>
 ><a href="https://skillicons.dev">
- ><img src="https://skillicons.dev/icons?i=mysql,postgres" />
+ ><img src="https://skillicons.dev/icons?i=postgres,mysql" />
 ></a>
 
 ##
