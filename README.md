@@ -8,7 +8,7 @@
 ><a href="https://skillicons.dev">
  ><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git" /><br>
  ><img src="https://skillicons.dev/icons?i=ts,bootstrap,tailwind,react,nextjs"/><br>
- ><img src="https://skillicons.dev/icons?i=wordpress,sass,webpack,gulp,jquery"/><br>
+ ><img src="https://skillicons.dev/icons?i=express,sass,webpack,gulp,jquery"/><br>
  ></a>
 
 
