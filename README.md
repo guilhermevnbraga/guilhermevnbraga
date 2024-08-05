@@ -11,6 +11,11 @@
  ><img src="https://skillicons.dev/icons?i=sass,gulp,jquery,webpack,express"/><br>
  ></a>
 
+><h4>Database</h4>
+><a href="https://skillicons.dev">
+ ><img src="https://skillicons.dev/icons?i=postgres,mongo,mysql,sqlite,sequelize,prisma" />
+></a>
+
 
  ><h4>Embbed Device Development</h4>
 >
@@ -26,11 +31,6 @@
 ><h4>Mobile Development</h4>
 ><a href="https://skillicons.dev">
  ><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" />
-></a>
-
-><h4>Database</h4>
-><a href="https://skillicons.dev">
- ><img src="https://skillicons.dev/icons?i=postgres,mongo,mysql" />
 ></a>
 
 
