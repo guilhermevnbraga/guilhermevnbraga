@@ -13,7 +13,8 @@
 
 ><h4>Database</h4>
 ><a href="https://skillicons.dev">
- ><img src="https://skillicons.dev/icons?i=postgres,mongo,mysql,sqlite,sequelize,prisma" />
+ ><img src="https://skillicons.dev/icons?i=postgres,mongo,mysql" />
+ ><img src="https://skillicons.dev/icons?i=sqlite,sequelize,prisma" /
 ></a>
 
 
