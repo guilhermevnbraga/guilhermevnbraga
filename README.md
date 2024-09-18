@@ -1,9 +1,9 @@
 <h1>Guilherme Vinícius Nigro Braga</h1>
 
 <h3>Tecnologies:</h3>
-><a href="https://skillicons.dev">
- ><img src="https://skillicons.dev/icons?i=nodejs,ts,git,tailwind,react,nextjs,express,postgres,mongo,mysql,sequelize,prisma,py,opencv" /><br>
- ></a>
+<a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=nodejs,ts,git,tailwind,react,nextjs,express,postgres,mongo,mysql,sequelize,prisma,py,opencv" /><br>
+ </a>
 
 ##
 <a><img src="https://github-readme-stats-s0la1r3.vercel.app/api?username=guilhermevnbraga&show_icons=true&bg_color=121218&title_color=0CA&text_color=0B9"/></a>
