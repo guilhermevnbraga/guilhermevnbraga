@@ -41,10 +41,3 @@
 
 ##
 <a><img src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=guilhermevnbraga&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"></a>
-
-#
-<h3>Contact Me</h3>
-<div>
-<a href="https://www.linkedin.com/in/guilhermevnbraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:guilhermeviniciuspj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
