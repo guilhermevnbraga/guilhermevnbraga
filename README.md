@@ -5,9 +5,9 @@
 ><h4>Web Development</h4>
 >
 ><a href="https://skillicons.dev">
- ><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git" /><br>
+ ><img src="https://skillicons.dev/icons?i=nodejs,git" /><br>
  ><img src="https://skillicons.dev/icons?i=ts,bootstrap,tailwind,react,nextjs"/><br>
- ><img src="https://skillicons.dev/icons?i=sass,gulp,jquery,webpack,express"/><br>
+ ><img src="https://skillicons.dev/icons?i=express"/><br>
  ></a>
 
 ><h4>Database</h4>
@@ -16,24 +16,10 @@
  ><img src="https://skillicons.dev/icons?i=sqlite,sequelize,prisma" />
 ></a>
 
-
- ><h4>Embbed Device Development</h4>
->
-><a href="https://skillicons.dev">
- ><img src="https://skillicons.dev/icons?i=arduino,c,cpp,java,raspberrypi" /><br>
-></a>
-
 > <h4>Machine Learn and Computer Vision</h4>
 ><a href="https://skillicons.dev">
- ><img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow" />
+ ><img src="https://skillicons.dev/icons?i=py,opencv" />
 ></a>
-
-><h4>Mobile Development</h4>
-><a href="https://skillicons.dev">
- ><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" />
-></a>
-
-
 
 ##
 <a><img src="https://github-readme-stats-s0la1r3.vercel.app/api?username=guilhermevnbraga&show_icons=true&bg_color=121218&title_color=0CA&text_color=0B9"/></a>
