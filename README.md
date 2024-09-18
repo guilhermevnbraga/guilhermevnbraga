@@ -3,8 +3,6 @@
 <h3>Tecnologies:</h3>
 ><a href="https://skillicons.dev">
  ><img src="https://skillicons.dev/icons?i=nodejs,ts,git,tailwind,react,nextjs,express,postgres,mongo,mysql,sequelize,prisma,py,opencv" /><br>
- ><img src="https://skillicons.dev/icons?i="/><br>
- ><img src="https://skillicons.dev/icons?i="/><br>
  ></a>
 
 ##
