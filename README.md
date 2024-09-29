@@ -1,4 +1,4 @@
-### <div align="center">I'm Guilherme Braga, a Full-Stack Web Developer</div>  
+# <div align="center">I'm Guilherme Braga, a Full-Stack Web Developer</div>  
   
 
 - 🔭 I’m currently working as a freelancer, and looking for job oportunities.  
