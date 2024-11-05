@@ -66,7 +66,7 @@
 <div align="center">
 <a href="https://linkedin.com/in/guilhermevnbraga" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<img src="https://img.shields.io/badge/+55%20%2881%29%2098518%200108-%2335C435.svg?&style=for-the-badge&logo=wechat&logoColor=white" alt=wechat style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/+55%20%2881%29%2099518%200108-%2335C435.svg?&style=for-the-badge&logo=wechat&logoColor=white" alt=wechat style="margin-bottom: 5px;" />
 <img src="https://img.shields.io/badge/guilhermeviniciuspj@gmail.com-%23d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
