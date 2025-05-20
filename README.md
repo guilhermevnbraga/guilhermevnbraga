@@ -1,18 +1,3 @@
-# <div align="center">I'm Guilherme Braga, a Full-Stack Web Developer</div>  
-  
-
-- 🔭 I’m currently working as a freelancer, and looking for job oportunities.  
-  
-
-- 🌱 I’m learning Java and Spring for back-end development.  
-  
-
-- 🎓 I'm pursuing a degree in Computer Science at UFPE (Federal University of Pernambuco).  
-  
-
-<br/>  
-
-
 ## Stack
 <table><tr><td valign="top" width="33%">
 
