@@ -9,8 +9,6 @@ No dia a dia trabalho principalmente com:
 - Manutenção e consultas ao banco de dados
 - Desenvolvimento de novos projetos internos
 
-<br/>
-
 # Stack
 <table><tr><td valign="top">
 
