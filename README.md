@@ -1,5 +1,5 @@
 ## Stack
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top">
 
 
 
@@ -14,7 +14,7 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
 
 
 
@@ -30,7 +30,7 @@
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
 
 
 
