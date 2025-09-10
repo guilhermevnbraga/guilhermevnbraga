@@ -1,3 +1,16 @@
+## 💼 Work Experience
+###
+Atualmente sou **bolsista na Superintendência de Tecnologia da Informação da UFPE**, onde atuo na manutenção e evolução dos sistemas administrativos da universidade.  
+
+No dia a dia trabalho principalmente com:
+- **Java** e **Spring Boot** para desenvolvimento backend
+- Correção de bugs e manutenção de sistemas já existentes
+- Suporte aos usuários e ajustes funcionais
+- Manutenção e consultas ao banco de dados
+- Desenvolvimento de novos projetos internos
+
+<br/>
+
 # Stack
 <table><tr><td valign="top">
 
@@ -23,12 +36,12 @@
   <h1>Backend</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,nodejs" />
+      <img src="https://skillicons.dev/icons?i=typescript,nodejs,java" />
     </a>
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=express,postgres,prisma" />
+      <img src="https://skillicons.dev/icons?i=express,postgres,prisma,spring" />
     </a>
   </p>
 </div>
