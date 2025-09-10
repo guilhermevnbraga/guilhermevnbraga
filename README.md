@@ -1,5 +1,4 @@
-## 💼 Work Experience
-###
+# Work
 Atualmente sou **bolsista na Superintendência de Tecnologia da Informação da UFPE**, onde atuo na manutenção e evolução dos sistemas administrativos da universidade.  
 
 No dia a dia trabalho principalmente com:
