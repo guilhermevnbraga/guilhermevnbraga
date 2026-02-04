@@ -1,13 +1,3 @@
-# Work
-Atualmente sou **bolsista na Superintendência de Tecnologia da Informação da UFPE**, onde atuo na manutenção e evolução dos sistemas administrativos da universidade.  
-
-No dia a dia trabalho principalmente com:
-- **Java** e **Spring Boot** para desenvolvimento backend
-- Correção de bugs e manutenção de sistemas já existentes
-- Suporte aos usuários e ajustes funcionais
-- Manutenção e consultas ao banco de dados
-- Desenvolvimento de novos projetos internos
-
 # Stack
 <table><tr><td valign="top">
 
